@@ -31,12 +31,12 @@ Wanna reach out to me? Click [here](https://areimann.de/contact)
 
 ## 📈 GitHub Statistics
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LNMedia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LNMedia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LNMedia&theme=dracula&hide_border=false&order=2" height="150" alt="streak graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=LupiNexMedia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LupiNexMedia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LupiNexMedia&theme=dracula&hide_border=false&order=2" height="150" alt="streak graph" />
 </p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=LNMedia&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="stats graph" />
+    <img src="https://github-profile-trophy.vercel.app/?username=LupiNexMedia&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="stats graph" />
 </p>
